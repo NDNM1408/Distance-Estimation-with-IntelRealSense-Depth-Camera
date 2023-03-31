@@ -1,0 +1,5 @@
+- Sử dụng Python 3.9 (do các bản sau không hỗ trợ API cho camera này)
+- Dowload SDK để chạy camera ở đây: https://github.com/IntelRealSense/librealsense/releases
+- Package sử dụng: opencv-python, pyrealsense2, ultralytics, cvzone
+- Dowload tất cả về cùng một folder rồi nhấn hàm main để chạy
+
